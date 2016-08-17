@@ -1,0 +1,38 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: 'Roboto' ;
+}
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+
+body:-moz-full-screen {
+  background-color: #fff !important;
+}
+
+body:-webkit-full-screen {
+  background-color: #fff !important;
+}
+
+body:full-screen {
+  background-color: #fff !important;
+}
+
+body {
+  background-color: #fff !important;
+}
+
+.cb-map {
+  position: relative;
+  top: -250px;
+  left: 400px;
+}
